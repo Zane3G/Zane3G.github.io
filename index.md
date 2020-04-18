@@ -2,7 +2,7 @@
 
 I am a PhD Candidate in Computer Science at the University of Minnesota.
 
-I have recieved a bachelors degree in Math and one in CS from the Ohio State University.
+I have received a bachelors degree in Math and one in CS from the Ohio State University.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
