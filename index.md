@@ -6,8 +6,6 @@ I have recieved a bachelors degree in Math and one in CS from the Ohio State Uni
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![image](https://raw.githubusercontent.com/Zane3G/Zane3G.github.io/master/cedar_point.jpg)
-
 ```markdown
 Syntax highlighted code block
 
