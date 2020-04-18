@@ -8,7 +8,6 @@ I have received a bachelors degree in Math and one in CS from the Ohio State Uni
 1. [The Wasserstein Transform](http://proceedings.mlr.press/v97/memoli19a) Facundo Memoli, Zane Smith, and Zhengchao Wan, ICML 2019
 2. [Improved Error Bounds for Tree Representations of Metric Spaces](http://papers.neurips.cc/paper/6431-improved-error-bounds-for-tree-representations-of-metric-spaces) Samir Chowdhury, Facundo Memoli, and Zane Smith, NeurIPS 2016
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <!---
 ```markdown
